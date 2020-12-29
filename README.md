@@ -3,7 +3,3 @@ Hi, my name is Jackson. I am a homeschooled high school student. I am a reader, 
 
 [![Jackson's Github stats](https://github-readme-stats.vercel.app/api?username=verassitnh&count_private=true&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=C9d1d9)](github.com/Verassitnh)
 [![Jackson's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Verassitnh&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=C9d1d9)](https://wakatime.com/@Verassitnh)
-
-[jacksonmooring.com](https://jacksonmooring.com)
-
-[me@jacksonmooring.com](mailto:me@jacksonmooring.com)

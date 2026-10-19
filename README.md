@@ -1,2 +1,11 @@
-### Hey Friends 👋
-Hi, my name is Jackson. I am a homeschooled high school student. I am a reader, coder, aspiring entrepreneur, and a child of God. I love to be productive, to be helpful, to give, and to get stuff done. I like to study, work, eat, read, live, and run. My day generally starts at 4AM and ends at 8PM. Every day I spend 2 hours of my time participating in productive recreation. My pleasure reading generally consists of historical fiction or historical non-fiction.
+<p align="center">
+  <img src="assets/this-is-fine.gif" alt="This is fine" width="480" />
+  <br />
+  <sub><i>me, mid-deploy</i></sub>
+</p>
+
+### Hey, I'm Jackson 👋
+
+Software developer at [**Samwise PSM**](https://github.com/Samwise-PSM), where I build product end to end — frontend, backend, infra, and the occasional dev tool.
+
+On the side I build planners and productivity tools ([dayline](https://github.com/Verassitnh/dayline) for macOS in Swift, [turbo](https://github.com/Verassitnh/turbo) in Svelte), hack on [turin](https://github.com/Verassitnh/turin) — a leaner t3code in Rust — and write at [draconis.substack.com](https://draconis.substack.com).

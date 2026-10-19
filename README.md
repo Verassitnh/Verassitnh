@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/this-is-fine.gif" alt="This is fine" width="480" />
+  <img src="assets/gatsby-toast.gif" alt="Gatsby raising a toast" width="480" />
   <br />
-  <sub><i>me, mid-deploy</i></sub>
+  <sub><i>shipped it. first try.</i></sub>
 </p>
 
 ### Hey, I'm Jackson 👋
